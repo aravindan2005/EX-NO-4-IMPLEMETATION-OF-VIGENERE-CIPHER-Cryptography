@@ -1,5 +1,7 @@
 # EX-NO-4-IMPLEMETATION-OF-VIGENERE-CIPHER
- 
+
+## NAME: ARAVINDAN T
+## REG NO: 2305001003
 
 ## AIM:
 
@@ -71,6 +73,8 @@ int main() {
 }
 ```
 ## OUTPUT
+
+<img width="306" height="147" alt="image" src="https://github.com/user-attachments/assets/e17b0f3d-180b-44a4-be37-2545d6246c73" />
 
 ## RESULT
 
